@@ -1,16 +1,17 @@
-## Hi there 👋
+```ts
+interface Person {
+  name: string;
+  age: number;
+  university: string;
+  currentlyWorkOn: string;
+  skills: string[];
+}
 
-<!--
-**Kononenko-Daniil/Kononenko-Daniil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const daniilKananenka: Person = {
+  name: "Daniil Kananenka",
+  age: 18,
+  university: "Belarusian State University",
+  currentlyWorkOn: GreenTON global
+  skills: ["html/css/js/ts", "react", "next.js", "telegram mini apps"]
+}
+```
