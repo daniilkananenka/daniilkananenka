@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌳 GreenTON frontend developer<br>📱 Telegram Mini Apps developer<br>🎓 Belarusian State University student<br>❤️ TON
+🚀 Frontend developer<br>📱 Telegram Mini Apps developer<br>🎓 Belarusian State University student<br>❤️ TON
 
 
 ## 🌐 Socials:
